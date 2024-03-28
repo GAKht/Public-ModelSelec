@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: modelselec
+Version: 2.0.0
+Summary: The modelselec package is designed to facilitate model development and selection
+Home-page: https://github.com/GAKht/Public-ModelSelec
+Author: Guillaume A. Khayat
+Author-email: guill.khayat@gmail.com
+Requires-Dist: attr>=0.3.2
+Requires-Dist: matplotlib>=3.8.2
+Requires-Dist: numpy>=1.26.4
+Requires-Dist: pandas>=2.2.1
+Requires-Dist: pytest>=8.0.0
+Requires-Dist: scikit_learn>=1.4.0
+Requires-Dist: seaborn>=0.13.2
+Requires-Dist: setuptools>=68.2.0
+Requires-Dist: statsmodels>=0.14.1
